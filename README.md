@@ -2,4 +2,5 @@
 1. Análise da Base de dados 
 2. Avaliar relação entre as variaveis
 3. Criar um algoritmo de regressão linear
-#[Codigo](https://github.com/Antonio-Borges-Rufino/Analise_Dados_Imoveis/blob/main/Analise_Dados_Imoveis.ipynb)
+
+# [Codigo](https://github.com/Antonio-Borges-Rufino/Analise_Dados_Imoveis/blob/main/Analise_Dados_Imoveis.ipynb)
